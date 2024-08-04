@@ -1,0 +1,429 @@
+
+@media only screen and (max-width: 425px) {
+    .col-s-6, .col-6{
+        width: 100% !important;
+    }
+    .search-box {
+        width: 220px !important;
+      }
+      
+      .search-box button {
+        padding: 10px 8px !important;
+        font-size: 12px !important;
+        margin-left: -6% !important;
+      }
+
+      .post-details .title {
+        font-size: 12px !important;
+        margin-bottom: 10px !important;
+      }
+      .display-img img{
+        width: 100% !important;
+        height:  100% !important;
+      }
+      
+.h h1{font-size: 1.9rem !important;}
+.h h2{font-size: 1.7rem !important;}
+.h h3{font-size: 1.6rem !important;}
+.h h4{font-size: 1.4rem !important;}
+.h h5{font-size: 1.2rem !important;}
+}
+@media only screen and (max-width: 575px) {
+    body{
+        width: 100% !important;
+    }
+    .col-s-6, .col-6{
+        width: 100% !important;
+    }
+    .text-container {
+        text-align: left;
+        margin-top: 0px;
+    }
+    #countdown span, .highlight-text {
+        font-size: 1rem;
+    }
+    .countdown-container {
+        flex-direction: column;
+        margin-left: 0 !important;
+    }
+    .counter{
+        width: 90% !important;
+    }
+    .countdown-container .learn-more{
+        display: none;
+    }
+    .row .col-s-6.col-6:nth-child(2) {
+        margin-top: 0;
+    }
+    .main-header{
+        height: 80px;
+    }
+    nav ul li a {
+        padding:  5px !important;
+        margin: auto 2px !important;
+    }
+    .contact{
+        display: none;
+    }
+    .nav-toggle{
+        margin-left: 25%;
+        padding: 0;
+    }
+    .inner-div {
+        top: 65% !important;
+        left: 40% !important;
+        width: 100vw !important;
+    }
+    .inner-div h2{
+        font-size: 1.5rem !important;
+    }
+    .title{
+        font-size: 1.2rem !important;
+        width: 130% !important;
+    }
+    .inner-div h2{
+        font-size: 1rem !important;
+    }
+    .button1{
+        width: 200px !important;
+    }
+    .footer-container {
+        padding: 50px 25px !important;
+      }
+    .footer-section {
+        min-width: 250px !important;
+    }
+    .text h1{
+        font-size: 1.2rem !important;
+       }
+    .text{
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+    .faculty-container{
+        height: 120% !important;
+    }
+    .faculty{
+        width: 100% !important;
+    }
+    .content h1{
+        font-size: 1.5em !important; 
+    }
+    .story h1{
+        font-size: 1.5em !important; 
+    }
+    .more{
+         width: 98% !important;
+    }
+    .more p{
+        font-size: 1em !important;
+        padding: 0% !important;
+    }
+    .trust img{
+        width: 100%;
+        height: 30vh !important;
+    }
+    .padding{
+        padding: 3% 0% 3% 3% !important;
+    }
+    .trust h1{
+        font-size: 1.5rem !important;
+    }
+    .trust p{
+        font-size: 1.1em !important;
+    }
+    .resources h1{
+        font-size: 1.4rem !important;
+        margin-bottom: 10px !important;
+      }
+      .play-button {
+        margin-top: 8% !important;
+      }
+      .fl {
+        display: flex;
+        flex-direction: column !important;
+        gap: 10px !important;
+    }
+    .f1-div{
+      width: 100% !important;
+    }
+    .date-badge {
+        top: 68% !important;
+        left: 5%;
+        padding: 8px 12px !important;
+      }
+      
+      .date-badge .date {
+        font-size: 20px !important;
+      }
+      
+      .date-badge .month {
+        font-size: 17px !important;
+      }
+      .article-content h2 {
+        font-size: 1.1rem !important;
+      }
+      .article-meta ul {
+        width: 90% !important;
+      }
+
+      .search-box input[type="text"] {
+        font-size: 12px !important;
+        padding: 8px 0px 8px 8px !important;
+      }
+
+      .search-box button {
+        padding: 8px 12px !important;
+        font-size: 14px !important;
+      }
+      .tags {
+        gap: 6px !important;
+        width: 120% !important;
+      }
+      .tag {
+        padding: 5px 8px !important;
+      }
+      .likes, .social{
+        justify-content: center !important;
+      }
+      .left-side p{
+        font-size: 0.9rem !important;
+      }
+      .comment img {
+        width: 12% !important;
+        height: 12% !important;
+        margin-top: 7% !important;
+      }
+    
+
+
+}
+
+@media only screen and (max-width: 758px) and (min-width: 575px){
+    .social-icons {
+        margin-left: 20% !important;
+    }
+    .dropdown a, .dropdown .dropdown-toggle {
+        display: inline-block !important;
+        vertical-align: middle !important;
+      }
+    .title{
+        font-size: 2rem !important;
+    }
+    .faculty{
+        width: 100% !important;
+    }
+    .more{
+        width: 48% !important;
+      }
+      .post-details .title {
+        font-size: 13px !important;
+      }
+  }
+
+@media only screen and (max-width: 992px)  {
+    .text-container {
+        text-align: center;
+        margin-top: 0px;
+    }
+
+    .countdown-container {
+        margin-left: 18%;
+    }
+
+    .main-header {
+        flex-wrap: wrap;
+    }
+
+    .nav-links {
+        display: none;
+        flex-direction: column;
+        background: #fff;
+        position: absolute;
+        top: 180px;
+        right: 10px;
+        width: 85%;
+        padding: 20px 40px;
+        margin-right: 6%;
+         z-index: 1;
+    }
+
+    .nav-links li {
+        margin: 10px 0;
+    }
+
+    .nav-toggle {
+        display: block;
+        color: #00B78A;
+        margin-right: -4%;
+        margin-top: 1%;
+        font-size: 30px;
+        order: 2; /* Ensure the toggle button is last */
+    }
+    .nav-toggle i {
+        width: 50px; /* Increase the width of the icon element */
+        font-size: 24px;
+        }
+        
+    .num {
+        display: none;
+    }
+    .social-icons {
+        order: 1; /* Ensure the social icons are before the contact section and toggle button */
+        margin-left: 40%;
+    }
+    .nav-toggle.active + nav ul {
+        display:flex;
+    }
+    .dropdown a, .dropdown .dropdown-toggle {
+         display: inline-block !important;
+         vertical-align: middle !important;
+    }
+    .background-image {
+         position: absolute;
+         height: 78vh !important;
+    }
+    .inner-div {
+         width: 80% !important; 
+         left: 60% !important;
+    }
+    .tch-img{
+        width: 90% !important;
+        height: 90% !important;
+        margin: 3% -5% 3% 0%;
+    }
+    .text{
+        margin-left: 8% !important;
+        width: 80%;
+       }
+       .prg{
+        padding: 0px 5px !important;
+       }
+       .faculty{
+        margin: 0px 10px 10px 0px !important;
+    }
+    .trust{
+        width: 100% !important;
+       }
+       .trust img{
+        width: 100%;
+        height: 80vh !important;
+       }
+       .padding{
+        padding: 3% 20% 3% 5% !important;
+       }
+       .trust p{
+        font-size: 1.3em !important;
+       }
+       .resources{
+        width: 100% !important;
+    }
+    .visit{
+        height: 50.2% !important;
+      }
+}
+
+@media only screen and (max-width: 1110px) and (min-width: 992px){
+    .text-container {
+        font-size: 1rem !important;
+        padding: 15px 0 !important;
+    }
+    .highlight-text {
+        font-size: 0.9rem !important;
+    }
+    .main-header {
+        padding: 0.5% 1% !important;
+    }
+    nav ul {
+        margin-left: 0%;
+    }  
+    nav ul li {
+        margin: 0 8px;
+    }
+    .num {
+        display: none !important;
+    }
+    .inner-div {
+        margin: 18% 0 0 -12% !important;
+         width: 58% !important; 
+    }
+    .title{
+        font-size: 2.5rem !important;
+    }
+    .tch{
+        padding: auto 0% !important;
+    }
+    .tch-img{
+        margin-top: 20% !important;
+    }
+    .resources{
+        width: 100% !important;
+    }
+    .visit{
+        height: 50.2% !important;
+      }
+      .dropdown-toggle {
+        display: none !important;
+        }
+        .article-content h2 {
+            font-size: 1.1rem !important;
+          }
+          .article-meta ul {
+            width: 60% !important;
+          }
+          .search-box {
+            width: 220px !important;
+          }
+          
+          .search-box button {
+            padding: 10px 8px !important;
+            font-size: 12px !important;
+            margin-left: -6% !important;
+          }
+          .post-details .title {
+            font-size: 12px !important;
+          }
+          .display-img img{
+            width: 100% !important;
+            height:  100% !important;
+          }
+          .tags {
+            gap: 6px !important;
+            width: 120% !important;
+          }
+          .tl{
+            padding-left: 9% !important;
+          }
+  }
+
+@media only screen and (max-width: 1300px) and (min-width: 1110px){
+    nav ul {
+        margin-left: 0%;
+    }  
+    nav ul li {
+        margin: 0 8px;
+    }
+    .main-header {
+        padding: 0.5% 2% !important;
+    }
+    .inner-div {
+        margin: 18% 0 0 -12% !important;
+        width: 60% !important; 
+    }
+    .dropdown-toggle {
+        display: none !important;
+          }
+          .tl{
+            padding-left: 5% !important;
+          }
+  
+  }
+
+  @media only screen and (min-width: 1300px) {
+    .text-container {
+        text-align: right;
+    }
+    .dropdown-toggle {
+        display: none !important;
+          }
+  }
