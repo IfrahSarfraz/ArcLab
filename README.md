@@ -29,16 +29,16 @@ Check out the live demo of the website:
 
 Watch the video demonstration of the website:
 
-[Website Video]( https://github.com/user-attachments/assets/0cff7a7c-1ae8-4e90-869b-58fd55ab9f26)
+[Website Video]( https://github.com/user-attachments/assets/d7c24520-401a-4237-bf66-d10c9cbe525d)
 
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to be, learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
+2. Create your feature branch 
+3. Commit your changes 
+4. Push to the branch 
 5. Open a Pull Request
 
 ## License
