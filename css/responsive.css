@@ -1,0 +1,369 @@
+
+@media (max-width: 575px) {
+  
+    .col-s-12, .col-s-11, .col-s-10, .col-s-9, .col-s-8, .col-s-7,
+    .col-s-6, .col-s-5, .col-s-4, .col-s-3, .col-s-2, .col-s-1,
+    .col-12, .col-11, .col-10, .col-9, .col-8, .col-7,
+    .col-6, .col-5, .col-4, .col-3, .col-2, .col-1{
+        width: 100% !important;
+    }
+    .header {
+        margin-top: -5% !important;
+        padding: 15px 30px;
+        width: 100%;
+        background: #000000;
+    }
+    .bottom-header {
+      padding: 15px 30px !important;
+    }
+    .background-image {
+      height: 200vh !important;
+      }
+     
+    .inner-div {
+        width: 100% !important; 
+        margin-top: 55% !important;
+        margin-left: 0% !important; 
+        padding-left: 2% !important;
+        padding-right: 2% !important;
+    }
+    .button-container {
+        width: 100% !important;
+    }
+    .button1{
+        width: 130% !important;
+    }
+    .bg-section{
+      height: 115vh !important;
+    }
+    .background-image2 {
+      height: 100vh !important;
+      }
+    .inner-div2 {
+      top: 90% !important;
+      }
+      .darken, .dark{
+        background-color: #96bb7c;
+      }
+      .quote-form h2 {
+        margin-bottom: 0px !important;
+      }
+      .quote-form {
+        margin-left: 0% !important;
+        padding: 10px 20px !important;
+        height: 82vh !important;
+      }
+      .quote-form input, .quote-form select, .quote-form textarea, .quote-form button {
+        padding: 10px 10px 10px 10px !important;
+      }
+      .projects h1{
+        font-size: 2rem;
+      }
+      .p-img{
+        height: 70vh !important;
+      }
+    
+      .content h1{
+        font-size: 2rem !important;
+      }
+      .content2 {
+        padding-left: 0px !important;
+        text-align: left !important;
+        justify-content: left !important;
+        align-items: left !important;
+      }
+      .content2 h1{
+        font-size: 2rem !important;
+        text-align: left !important;
+      }
+      .slide {
+        min-width: 100% !important;
+    }
+    .price-info button{
+  margin-bottom: 8px !important;
+  margin-left: 0% !important;
+}
+.submitbutton {
+  width: 100% !important;
+  margin-left: 0% !important;
+}
+.cform{
+  padding: 7% 0% 0% 0% !important;
+}
+.cinfo{
+  border-right: 0px solid #ccc !important;
+  margin-bottom: 12% !important;
+}
+    .footer-container {
+        padding: 5px 12px;
+      }
+      .footer-bottom p {
+        padding: 5px 0px;
+      }
+}
+@media only screen and (max-width: 786px) {
+    .col-s-12{
+        width: 100% !important;
+    }
+    .header {
+        margin-top: -3%;
+        padding: 20px 30px;
+        width: 100%;
+        background: #000000;
+    }
+  .logo {
+     color: #fff;
+  }
+  .nav-links {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    background-color: #000000;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1;
+  }
+
+  .nav-links a {
+    padding: 5px !important;
+    color:#fff;
+  }
+
+  .toggle-button {
+    display: block;
+  }
+
+  .nav-links.show {
+    display: flex;
+  }
+  .btm-nav-links {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    background-color: #fff;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1;
+  }
+
+  .btm-nav-links a {
+    padding: 5px !important;
+    color:#333;
+   }
+   .btm-nav-links.show {
+    display: flex;
+    }
+    .inner-div {
+        width: 50%;  
+        margin-top: 30% ;
+    }
+    .button-container {
+        width: 120%;
+     }
+     .inner-div2 {
+      top: 65%;
+      left: 45%;
+      width: 80%;
+      margin-left: 0%;
+      }
+      .darken, .dark{
+        background-color: #96bb7c;
+      }
+      .card img{
+        width: 15%;
+        height: 15%;
+      }
+      .archimg{
+        height: 75vh;
+      }
+      .quote-form h2 {
+        margin-bottom: 0px;
+      }
+      .quote-form {
+        margin-left: 0%;
+        padding: 10px 20px;
+        width: 100%;
+        height: 85vh;
+      }
+      .counter-container {
+        justify-content: left;
+      }
+      .br{
+        width: 100%;
+        border-right: 0;
+        padding-left: 5%;
+        }
+        .image-container {
+          float: left !important;
+        }
+        .text-container {
+          float: right !important;
+        }
+      
+        .p-img{
+          height: 80vh !important;
+        }
+        .line {
+          display: none;
+          }
+          .text {
+            padding: 5% 0;
+          }
+          .content {
+            padding-left: 0px !important;
+          }
+          .line2 {
+            display: none;
+            }
+            .content2 {
+              text-align: left !important;
+              justify-content: left !important;
+              align-items: left !important;
+            }
+            .content2 h1{
+              text-align: left !important;
+            }
+            .slide {
+              min-width: 48%;
+          }
+          .price-list ul {
+            margin-left: -5%;
+          }
+          .price-info button{
+            margin-bottom: 8px !important;
+            margin-left: 0% !important;
+          }
+          .post-title {
+            padding: 0% 0% 3% 0;
+        }
+        .team-member {
+          width: 48%;
+        }
+        .submitbutton {
+          width: 50%;
+          margin-left: -50%;
+        }
+        .cinfo{
+          border-right: 0px solid #ccc !important;
+          margin-bottom: 7%;
+        }
+    .footer-container {
+        padding: 20px 12px;
+      }
+      .footer-bottom p {
+        padding: 5px 0px;
+      }
+}
+@media only screen and (max-width: 992px) and (min-width: 786px){
+    .header {
+        margin-top: -3%;
+        padding: 20px 30px;
+        width: 100%;
+        background: #000000;
+    }
+    .logo {
+        color: #fff;
+    }
+  .nav-links {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    background-color: #000000;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1;
+  }
+
+  .nav-links a {
+    padding: 5px !important;
+    color:#fff;
+  }
+
+  .toggle-button {
+    display: block;
+  }
+
+  .nav-links.show {
+    display: flex;
+  }
+  .btm-nav-links {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    background-color: #fff;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1;
+  }
+
+  .btm-nav-links a {
+    padding: 5px !important;
+    color:#333;
+  }
+  .btm-nav-links.show {
+    display: flex;
+  }
+  .inner-div {
+    margin-top: 20% ;
+  }
+  .inner-div2 {
+    top: 65%;
+    left: 45%;
+    width: 80%;
+    margin-left: 0%;
+    }
+    .darken, .dark{
+      background-color: #96bb7c !important;
+    }
+    .display{
+      width: 46%;
+    }
+    .archimg{
+      height: 85vh;
+    }
+    .quote-form {
+      height: 85vh;
+    }
+    .br{
+      width: 48%;
+      }
+      .slide {
+        min-width: 48%;
+    }
+    .price {
+      width: 28%;
+    }
+    .price-info button{
+      margin-bottom: 8px !important;
+      margin-left: 0% !important;
+    }
+    .post-card {
+      width: 21%;
+  }
+  .team-member {
+    width: 48%;
+  }
+  .submitbutton {
+    width: 40%;
+    margin-left: -60%;
+  }
+  .cinfo{
+    border-right: 0px solid #ccc !important;
+  }
+    footer {
+      padding: 3em 0 2em 0;
+    }
+    .footer-container {
+      padding: 50px 60px;
+      width: 100%;
+    }
+}
+@media only screen and (max-width: 1268px) and (min-width: 992px){
+  .post-card {
+    width: 22%;
+}
+}

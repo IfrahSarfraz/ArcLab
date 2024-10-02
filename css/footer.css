@@ -1,0 +1,114 @@
+
+
+footer {
+    font-size: 16px;
+    padding: 3em 0 5em 0;
+    background: #0f101c; 
+    color: #fff;
+    text-align: left;
+  }
+  
+  .footer-container {
+    justify-content: space-around;
+    padding: 50px 120px;
+    width: 100%;
+  }
+  
+  .footer-section {
+    padding: 0 5px;
+    margin-right: 3%;
+}
+  
+  .footer-section h3 {
+    font-weight: normal;
+    color: #fff;
+    margin-bottom: 40px;
+    font-size: 18px;
+    font-weight: 700;
+  }
+  
+  
+  .ftco-footer-social li {
+    list-style: none;
+    margin: 20px 10px 0 0;
+    display: inline-block; }
+    .ftco-footer-social li a {
+      height: 35px;
+      width: 35px;
+      display: block;
+      background: rgba(255, 255, 255, 0.05);
+      border-radius: 50%;
+      position: relative; }
+      .ftco-footer-social li a span {
+        position: absolute;
+        font-size: 20px;
+        top: 50%;
+        left: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%); }
+      .ftco-footer-social li a:hover {
+        color: #fff; }
+
+  .footer-section ul, .footer-section p {
+    list-style: none;
+    padding: 0;
+     font-family: calibri;
+     font-size: 18px;
+     font-weight: 500;
+     color: rgba(255, 255, 255, 0.5);
+  }
+  .list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+  .footer-section ul li {
+    color: rgba(255, 255, 255, 0.5);
+  }
+  .footer-section ul li span{
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 14px; 
+    margin-right: 5px;
+    padding: 0 !important;
+  }
+  
+  .footer-section ul li a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.5);
+  }
+  .text {
+    display: table-cell;
+    vertical-align: top;
+    font-size: 1.1rem !important;
+    margin-left: 10px;
+    margin-bottom: 5%;
+}
+  .footer-bottom {
+    color: #bbb;
+    text-align: center;
+    padding: 10px 0px;
+    font-family: calibri;
+     font-size: 19px;
+     font-weight:lighter;
+     color:#96958e;
+     width: 100%;
+  }
+  
+  .footer-bottom p {
+    margin: 0;
+    text-align: center;
+    width: 100% !important;
+    font-weight: 500;
+  }
+  
+  .footer-bottom span {
+    color: #96958e;
+  }
+  
+  .footer-bottom a {
+    color:#adaca2;
+    text-decoration: none;
+  }
+  .footer-bottom a:hover {
+    color:#fff;
+  }
